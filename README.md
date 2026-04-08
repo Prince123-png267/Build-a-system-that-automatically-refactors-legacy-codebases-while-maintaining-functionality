@@ -1,0 +1,2 @@
+# Build-a-system-that-automatically-refactors-legacy-codebases-while-maintaining-functionality
+Create an intelligent code refactoring tool that analyzes legacy codebases, identifies technical debt, security vulnerabilities, and outdated patterns, then automatically refactors code to modern standards while preserving functionality. The system should include comprehensive testing and rollback capabilities.
